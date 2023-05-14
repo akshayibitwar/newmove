@@ -1,0 +1,19 @@
+.box
+{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    
+}
+
+.box1{
+    width: 255px;
+    height: 255px;
+    background-color: rgb(255, 165, 0);
+}
+
+.box2{
+    width: 255px;
+    height: 255px;
+    background-color: rgb(255, 105, 0);
+}
